@@ -1,0 +1,13 @@
+# Secrets
+.env
+.env*.local
+
+# Dependencies and build output
+node_modules/
+.next/
+out/
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# Personal documents
+Profile.pdf
