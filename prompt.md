@@ -30,6 +30,4 @@ These are the prompts used to build this portfolio, in order, copied exactly as 
 
 > Please do a comprehensive code review of this project. And write the results. To review.md. Include any remedial actions needed. Don't actually change any code.
 
-## 7. Record the prompts
 
-> Please write all the prompts I used for this project to  a prompt.md file and include it in the project folder.
